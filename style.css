@@ -1332,13 +1332,13 @@ p {
   border-radius: 50%;
 }
 #fh5co-type h3.with-icon.icon-1:before, #fh5co-type h3.with-icon.icon-1::before {
-  background: url(../images/type-1.png) no-repeat center center;
+  background: url(type-1.png) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-2:before, #fh5co-type h3.with-icon.icon-2::before {
-  background: url(../images/type-2.png) no-repeat center center;
+  background: url(type-2.png) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-3:before, #fh5co-type h3.with-icon.icon-3::before {
-  background: url(../images/type-3.png) no-repeat center center;
+  background: url(type-3.png) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-4:before, #fh5co-type h3.with-icon.icon-4::before {
   background: url(type-4.png) no-repeat center center;
